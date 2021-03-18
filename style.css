@@ -144,6 +144,12 @@
         position: absolute;
     }
 
+.social a
+    {
+        text-decoration: none;
+        color: inherit;
+    }
+
 .social .fa
     {
         margin: 15px 23px;
